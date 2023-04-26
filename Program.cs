@@ -1,5 +1,11 @@
 ﻿using DSharpPlus;
 
+var source = new CancellationTokenSource();
+
+var config = new ConfigurationBuilder()
+    .AddJsonFile("appsettings.json", true);
+    .Build();
+
 var client = new DiscordClient(new DiscordConfiguration {
     Token = "MY TOKEN",
     TokenType = TokenType.Bot
@@ -13,8 +19,10 @@ client.MessageCreated += async (client, args) => {
         
 };
 
+var token = source.Token;
 await client.ConnectAsync();
-await Task.Delay(-1);
 
-
+while (!token.IsCancellationRequested) {
+    await Task.Delay(100);
+}
 
