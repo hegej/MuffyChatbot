@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MlIq22mfrtG9jfBOjANif4Bk7nDt1ZGfTgMk/xbnx5xp6DGNLUwJBx0TLO0VIdI7GpKkqsKri5OK8SFr+T3s5Q==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\MuffyChatbot\\MuffyChatbot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hegekr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\hegekr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\hegekr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\hegekr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
