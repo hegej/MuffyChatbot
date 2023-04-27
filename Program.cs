@@ -1,13 +1,15 @@
 ﻿using DSharpPlus;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
 
 var source = new CancellationTokenSource();
 
 var config = new ConfigurationBuilder()
-    .AddJsonFile("appsettings.json", true);
+    .AddJsonFile("appsettings.json", true)
     .Build();
 
 var client = new DiscordClient(new DiscordConfiguration {
-    Token = "MY TOKEN",
+    Token = config["discordtoken"],
     TokenType = TokenType.Bot
 });
 
