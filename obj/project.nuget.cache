@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q5k5E1Ssw+whLX7JB5YasY22vM1P+2JQEDoLTHPRCuATC7WoHwtF42H6mHsTuXEFM0cUAzuMc2kX2+DY+74EJg==",
+  "dgSpecHash": "oU6FkTLVmSFercBMtZ0Q4V0mS2U/bJxgfghhtatBHSMn/OF1f026fe9HfIWBiHdtvVpE/WzkfpPw0gb1sdyWug==",
   "success": true,
   "projectFilePath": "C:\\DEV\\MuffyChatbot\\MuffyChatbot.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\hegekr\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
     "C:\\Users\\hegekr\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0\\microsoft.extensions.configuration.fileextensions.7.0.0.nupkg.sha512",
     "C:\\Users\\hegekr\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0\\microsoft.extensions.configuration.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\hegekr\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\6.0.0\\microsoft.extensions.configuration.usersecrets.6.0.0.nupkg.sha512",
     "C:\\Users\\hegekr\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0\\microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\hegekr\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0\\microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
     "C:\\Users\\hegekr\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0\\microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
