@@ -18,3 +18,17 @@ C:\DEV\MuffyChatbot\obj\Debug\net6.0\refint\MuffyChatbot.dll
 C:\DEV\MuffyChatbot\obj\Debug\net6.0\MuffyChatbot.pdb
 C:\DEV\MuffyChatbot\obj\Debug\net6.0\MuffyChatbot.genruntimeconfig.cache
 C:\DEV\MuffyChatbot\obj\Debug\net6.0\ref\MuffyChatbot.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\appsettings.json
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\System.Text.Json.dll
+C:\DEV\MuffyChatbot\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

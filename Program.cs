@@ -6,6 +6,7 @@ var source = new CancellationTokenSource();
 
 var config = new ConfigurationBuilder()
     .AddJsonFile("appsettings.json", true)
+    .AddUserSecrets(typeof(Program).Assembly, true)
     .Build();
 
 var client = new DiscordClient(new DiscordConfiguration {
@@ -16,7 +17,8 @@ var client = new DiscordClient(new DiscordConfiguration {
 client.MessageCreated += async (client, args) => {
 
     if (args.Message.Content.StartsWith("ping")) {
-        await client.SendMessageAsync(args.Channel, "pong");
+        var discordMessage = await client.SendMessageAsync(args.Channel, 
+        $"Hey, don't ping me {args.Author.Username}!");
     }
         
 };
