@@ -23,4 +23,3 @@ await client.ConnectAsync();
 while (!token.IsCancellationRequested) {
     await Task.Delay(100);
 }
-

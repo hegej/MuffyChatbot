@@ -8,7 +8,7 @@ public static class DiscordExtensions {
     public static DiscordClient AddMuffybot(this DiscordClient client)
     {
         _Bot = new MuffyBot();
-        _Bot.Initialize(client)
+        _Bot.Initialize(client);
 
         return client;
     }
