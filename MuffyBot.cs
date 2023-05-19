@@ -3,7 +3,7 @@ using DSharpPlus.EventArgs;
 
 namespace MuffyChatbot;
 
-public class Muffybot {
+public class MuffyBot {
 
 
     public void Initialize(DiscordClient client)

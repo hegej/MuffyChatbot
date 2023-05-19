@@ -1,4 +1,5 @@
 ﻿using DSharpPlus;
+using MuffyChatbot;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
