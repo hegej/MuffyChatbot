@@ -14,14 +14,7 @@ var client = new DiscordClient(new DiscordConfiguration {
     TokenType = TokenType.Bot
 });
 
-client.MessageCreated += async (client, args) => {
-
-    if (args.Message.Content.StartsWith("ping")) {
-        var discordMessage = await client.SendMessageAsync(args.Channel, 
-        $"Hey, don't ping me {args.Author.Username}!");
-    }
-        
-};
+client.AddMuffybot();
 
 var token = source.Token;
 await client.ConnectAsync();
